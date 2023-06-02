@@ -62,7 +62,7 @@ def login():
         cursor = cnx.cursor()
 
         # Retrieve the stored password for the given email
-        query = "SELECT password FROM users WHERE email = %s"
+        query = "SELECT password FROM personal_info WHERE email = %s"
         cursor.execute(query, (email,))
         result = cursor.fetchone()
 
