@@ -1,4 +1,4 @@
-# Hack
+# HEALTH_ME
 1. Welcome to the world of HealthME, the groundbreaking web app that transforms personal health management.
          Today, we will explore how HealthME is revolutionizing the healthcare industry and providing a 
          comprehensive solution for individuals to take control of their health.
